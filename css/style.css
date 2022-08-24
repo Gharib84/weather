@@ -1,0 +1,28 @@
+body {
+    background: linear-gradient(0deg, #1C1F22, #1C1F22), linear-gradient(135.39deg, #353C44 -0.7%, #131419 100%);
+}
+
+
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #FA597D;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input[type="search"] {
+    background: linear-gradient(320.66deg, #2F353A 14.75%, #1C1F22 84.81%);
+    border-radius: 20px;
+    color: white !important;
+    font-weight: bold;
+}
+
+.alert {
+    display: none;
+}
